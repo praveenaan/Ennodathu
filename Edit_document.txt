@@ -1,1 +1,3 @@
 HI I AM A TRAINEE . 
+
+I am learning GIT HUB
