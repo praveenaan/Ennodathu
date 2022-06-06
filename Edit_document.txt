@@ -1,4 +1,8 @@
 Branch checkout
+<<<<<<< HEAD
 domer buddy 
+
+domer nayea
+
 boomer
 Uncle
